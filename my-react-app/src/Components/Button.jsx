@@ -20,9 +20,12 @@ const styles = {
     backgroundColor: '#007bff',
     color: 'white',
     border: 'none',
-    borderRadius: '6px',
+    borderRadius: '5px',
     cursor: 'pointer',
   },
 };
 
 export default Button;
+
+//aslkdfhasdf
+//hgfugfv
